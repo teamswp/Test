@@ -1,4 +1,5 @@
 # Test
 
-public class Trst{
+public class Test{
+public sttaic void main
 }
